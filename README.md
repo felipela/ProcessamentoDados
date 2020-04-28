@@ -1,4 +1,4 @@
-# ProcessamentoDados
+# Processamento Massivo de Dados
 Conjunto de scripts para o curso de processamento de dados massivos
 
 # Pacotes utilizados
