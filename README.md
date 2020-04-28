@@ -1,7 +1,7 @@
 # ProcessamentoDados
 Conjunto de scripts para o curso de processamento de dados massivos
 
-Pacotes utilizados
+# Pacotes utilizados
 
 OpenCV 3.4.3 (conda install -c conda-forge opencv==3.4.3)
 
